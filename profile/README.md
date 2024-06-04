@@ -4,9 +4,7 @@
   <img  src="https://whereishome.netlify.app/static/media/logo.fdd92b1e32c93532e1dd.jpg" height=350 width=350>
 </p>
 <p align="center"> The project website documentation can be accessed by this <a href="https://whereishome.netlify.app/">link</a> </p
-<p align="center"> 
-    The promotional video can be accessed by this <a href="https://www.youtube.com/watch?v=lMu8P-nh-0Y&ab_channel=CristianoNicolau">link</a> 
-</p>
+<p align="center"> The promotional video can be accessed by this <a href='https://www.youtube.com/watch?v=lMu8P-nh-0Y&ab_channel=CristianoNicolau'>link</a> </p>
 
 ## 1. Group Members:
 
