@@ -8,14 +8,14 @@
 
 ## 1. Group Members:
 
-| NMec | Name | email | Role |
-|:---: |:---|:---|:---:|
-| 108317 | Miguel Miragaia       | [miguelmiragaia@ua.pt](https://github.com/Miragaia)              |    Team leader      |
-| 108536 | Cristiano Nicolau     | [cristianonicolau@ua.pt](https://github.com/cristiano-nicolau)   |    DBAdmin          |
-| 107323 | Vasco Faria           | [vascmfaria@ua.pt](https://github.com/vasco-faria)               |    Architect        |
-| 107572 | Gonçalo Lopes         | [goncalorcml@ua.pt](https://github.com/vasco-faria)              |    DevOps           |
-| 104429 | Joana Gomes           | [joanaagomes@ua.pt](https://github.com/joanaagomesua)            |    Product Owner    |
-| 108615 | Tiago Cruz            | [tiagofcruz78@ua.pt](https://github.com/TiagoC18)                |    SCRUM master     |
+| NMec   | Name               | Email                                    | GitHub                                     | Role           |
+|:---|:---|:---|:---|:---|
+| 108317 | Miguel Miragaia    | [miguelmiragaia@ua.pt](mailto:miguelmiragaia@ua.pt)           | [Miragaia](https://github.com/Miragaia)                   | Team Leader    |
+| 108536 | Cristiano Nicolau  | [cristianonicolau@ua.pt](mailto:cristianonicolau@ua.pt)       | [cristiano-nicolau](https://github.com/cristiano-nicolau) | DBAdmin    |
+| 107323 | Vasco Faria        | [vascmfaria@ua.pt](mailto:vascmfaria@ua.pt)                   | [vasco-faria](https://github.com/vasco-faria)             | Architect      |
+| 107572 | Gonçalo Lopes      | [goncalorcml@ua.pt](mailto:goncalorcml@ua.pt)                 | [goncalorcml](https://github.com/goncalorcml)             | DevOps         |
+| 104429 | Joana Gomes        | [joanaagomes@ua.pt](mailto:joanaagomes@ua.pt)                 | [joanaagomesua](https://github.com/joanaagomesua)         | Product Owner |
+| 108615 | Tiago Cruz         | [tiagofcruz78@ua.pt](mailto:tiagofcruz78@ua.pt)               | [TiagoC18](https://github.com/TiagoC18)                   | SCRUM Master   |
 
 
 ## 2. Notes:
