@@ -5,10 +5,14 @@
 </p>
 <p align="center"> The project website documentation can be accessed by this <a href="https://whereishome.netlify.app/">link</a> </p
 <br>
+
 <p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=lMu8P-nh-0Y&ab_channel=CristianoNicolau" frameborder="0" allowfullscreen></iframe>
+    [![Video](http://img.youtube.com/vi/lMu8P-nh-0Y/0.jpg)](http://www.youtube.com/watch?v=lMu8P-nh-0Y)
 </p>
 
+<p align="center"> 
+    The promotional video can be accessed by this [link](https://www.youtube.com/watch?v=lMu8P-nh-0Y&ab_channel=CristianoNicolau)
+</p>
 
 ## 1. Group Members:
 
