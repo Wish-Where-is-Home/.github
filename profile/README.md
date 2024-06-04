@@ -1,7 +1,7 @@
 # Wish - Where is Home
 
 <p align="center">
-  <img  src="https://whereishome.netlify.app/static/media/logo.fdd92b1e32c93532e1dd.jpg" height=275 width=600>
+  <img  src="https://whereishome.netlify.app/static/media/logo.fdd92b1e32c93532e1dd.jpg" height=350 width=350>
 </p>
 <p align="center"> The project website documentation can be accessed by this <a href="https://whereishome.netlify.app/">link</a> </p
 <br>
