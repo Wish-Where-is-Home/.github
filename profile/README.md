@@ -6,10 +6,8 @@
 <p align="center"> The project website documentation can be accessed by this <a href="https://whereishome.netlify.app/">link</a> </p
 <br>
 
-<p align="center">
-    [![Video](http://img.youtube.com/vi/lMu8P-nh-0Y/0.jpg)](http://www.youtube.com/watch?v=lMu8P-nh-0Y)
-</p>
 
+[![Video](http://img.youtube.com/vi/lMu8P-nh-0Y/0.jpg)](http://www.youtube.com/watch?v=lMu8P-nh-0Y)
 <p align="center"> 
     The promotional video can be accessed by this [link](https://www.youtube.com/watch?v=lMu8P-nh-0Y&ab_channel=CristianoNicolau)
 </p>
